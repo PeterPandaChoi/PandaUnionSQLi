@@ -4,8 +4,8 @@
 <br/>해당 코드의 첫 커밋은 블로그에 상술되어 있습니다. [https://blog.naver.com/panda_university/223281163940]
 
 # Specification
-<br/>
-<br/>
+<br/>Method : get
+<br/>param : search
 <br/>
 
 # Required library 필요한 라이브러리
@@ -35,9 +35,10 @@ This Union SQL Injection goes through 7 steps.
 
 # Future Plan
 1. get/post
-2. parameter Customize
-3. code cleaning
-4. multiple table,column
+2. order by - bin Search Algorithm (2b more quiet)
+3. parameter Customize
+4. code cleaning
+5. multiple table,column
 
 
 
