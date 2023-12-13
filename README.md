@@ -1,10 +1,10 @@
 # PandaUnionSQLi 
-<br/>'Panda Union SQL injection' (or 'PandaUnionSQLi') is a rudimentary tool for automating 'Union SQL injection' pentest Process, currently specialized in blind SQLi, Coded fully in Python, with a few lib.
+'Panda Union SQL injection' (or 'PandaUnionSQLi') is a rudimentary tool for automating 'Union SQL injection' pentest Process, currently specialized in blind SQLi, Coded fully in Python, with a few lib.
 <br/>'Panda Union SQLi'는 Union SQL injection의 침투테스트를 위한 초보적인 툴이며, 몇몇 라이브러리를 포함한 파이썬으로 코딩하였습니다.
 <br/>해당 코드의 첫 커밋은 블로그에 상술되어 있습니다. [https://blog.naver.com/panda_university/223281163940]
 
 # Specification
-<br/>Method : get
+Method : get
 <br/>param : search
 <br/>
 
